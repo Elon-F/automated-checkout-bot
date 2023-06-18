@@ -13,5 +13,7 @@ The bulk of the work was done in a single afternoon to try and make the expected
 ### Installation notes
 
 Requires downloading the appropriate [WebDriver](https://chromedriver.chromium.org/downloads) for whatever version of Chrome is installed on the system.
-Install depencies with pip install -r requirements.txt
-
+Install depencies with 
+```
+pip install -r requirements.txt
+```
