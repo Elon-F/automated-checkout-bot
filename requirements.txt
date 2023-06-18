@@ -1,0 +1,5 @@
+selenium
+selenium_stealth
+seleniumrequests
+pandas
+joblib

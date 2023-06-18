@@ -1,0 +1,56 @@
+{
+  "data": {
+    "headers": {
+      "authority": "test.com",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": "application/json;charset=UTF-8",
+      "origin": "https://test.com",
+      "referer": "https://test.com/",
+      "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-site",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36",
+    },
+    "json_data": {
+      "lang": "eng",
+      "mcode": null,
+      "ransu": null,
+      "age_confirm": null
+    },
+    "cart_initialization_item": {
+      "eparams": [
+        "CARD-00017618",
+        "",
+        12
+      ],
+      "amount": 1
+    },
+    "fumo_items_data": [
+      {
+        "amount": 3,
+        "scode": "GOODS-04238024",
+        "max_cartin_count": 3,
+      },
+      {
+        "amount": 1,
+        "scode": "GOODS-04238025",
+        "max_cartin_count": 3,
+      },
+      {
+        "amount": 2,
+        "scode": "GOODS-04238026",
+        "max_cartin_count": 3,
+      }
+    ],
+    "test_items_data": [
+      {
+        "scode": "CARD-00017618",
+        "max_cartin_count": 12
+      }
+    ]
+  }
+}
